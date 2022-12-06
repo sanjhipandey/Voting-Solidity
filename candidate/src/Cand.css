@@ -1,0 +1,19 @@
+.reg{
+    margin-left: 25%;
+    width: 80vw;
+    height: 100vh;
+    overflow: auto;
+    position: fixed;
+    background-image: url("./Images/register.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+   
+}
+
+.inner{
+    width: 60%;
+    height: 60vh;
+    
+}
